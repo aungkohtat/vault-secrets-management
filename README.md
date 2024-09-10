@@ -12,3 +12,4 @@ All demo projects are available in the [demo-projects](demo-projects) folder.
 ## Notes
 
 - [1 - aws-access-management-vault-terraform-cloud](https://github.com/aungkohtat/aws-access-management-vault-terraform-cloud/blob/main/README.md)
+- [2 - terraform-create-vault-admin-iam-aws](https://github.com/aungkohtat/terraform-create-vault-admin-iam-aws/blob/main/README.md)
